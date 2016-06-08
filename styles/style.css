@@ -112,7 +112,7 @@ hntext{
     border-spacing: 0;
     border-radius: 20px;
     box-shadow: 1px 7px 10px #808080;
-    line-height: 150%;
+   /* line-height: 150%;*/
     margin: 0 auto 0 auto;
     width: 80%;
     padding: 0;
