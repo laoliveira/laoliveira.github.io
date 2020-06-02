@@ -105,6 +105,7 @@ footer {
     flex-flow: row nowrap;
     justify-content: center;
     align-items: center;
+    padding-top: 1em;
 }
 
 /*
