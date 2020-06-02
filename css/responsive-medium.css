@@ -9,6 +9,10 @@ h2 {
 h3 {
     font-size: 1em;
 }
+
+.content-container {
+    margin-top: -10%;
+}
  
  .profile-picture {
     width: 300px;
