@@ -153,6 +153,7 @@ main {
     padding: 5%;
     border-radius: 5px; 
     width: 70%;
+    min-height: 400px;;
 }
 
 .picture-container{
