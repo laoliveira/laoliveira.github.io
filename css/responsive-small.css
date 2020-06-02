@@ -1,0 +1,33 @@
+h1 {
+    font-size: 1.2em;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+h3 {
+    font-size: 0.8em;
+}
+
+.header-content {
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-picture {
+    width: 200px;
+}
+
+.header-text {
+    text-align: center;
+}
+
+.content-container {
+    flex-flow: row;
+}
+    
+.contact-item {
+    font-size: 2em;
+}

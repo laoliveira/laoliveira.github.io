@@ -1,0 +1,23 @@
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+ .profile-picture {
+    width: 300px;
+}
+
+.contact-item {
+    font-size: 3em;
+}
+
+.content-container {
+    flex-flow: row;
+}
